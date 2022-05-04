@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "892445074898",
+    "project_id": "primer-rest-api-410b0",
+    "storage_bucket": "primer-rest-api-410b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892445074898:android:a68312bb5d14f063d0540b",
+        "android_client_info": {
+          "package_name": "com.example.laboratorio_15"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892445074898-p07lvaf0ues2l5bbs3v5maonqql4m2lp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4zsCdFdWfy0Z0ZFrdzrBqKaftWk-qo3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892445074898-p07lvaf0ues2l5bbs3v5maonqql4m2lp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
