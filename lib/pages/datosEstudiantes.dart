@@ -23,7 +23,7 @@ class DatosEstudiantes extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Laboratorio 14'),
+        title: const Text('Laboratorio 15'),
         centerTitle: true,
         backgroundColor: Colors.indigo,
       ),
